@@ -1,4 +1,4 @@
-# iti0204-2022
+# algorithms_and_data-structures_pecus
 
 
 
