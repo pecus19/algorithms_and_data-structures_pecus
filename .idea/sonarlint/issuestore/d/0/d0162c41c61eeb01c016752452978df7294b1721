@@ -1,0 +1,23 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ÙïŒ
+@
+java:S1197"*Move the array designators [] to the type.(¤ÀÅ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š³Ýª
+T
+java:S1854 "9Remove this useless assignment to local variable "check".(·ïªÞùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ž¿ž¶øÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(­„žÇýÿÿÿÿ
+E
+java:S1481"*Remove this unused "check" local variable.(«Ô×¸üÿÿÿÿ
+Y
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ÂËÝ¨úÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(×½³Ã
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(´Çª‚ûÿÿÿÿ
+E
+java:S1197."*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(·Ñ£·
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ìèöì
+Q	java:S125<"<This block of commented-out lines of code should be removed.(µ¡½à
+V	java:S125E"<This block of commented-out lines of code should be removed.(ëˆÎÔýÿÿÿÿ

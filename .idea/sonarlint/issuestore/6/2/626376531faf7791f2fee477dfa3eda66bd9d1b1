@@ -1,0 +1,9 @@
+
+_
+java:S4275"DRefactor this getter so that it actually refers to the field "kind".(ªÛ”ıÿÿÿÿ
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+>
+java:S1068"(Remove this unused "kind" private field.(ãÒÓö
+@
+java:S1068"*Remove this unused "height" private field.(š»ä¶

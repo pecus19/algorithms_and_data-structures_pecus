@@ -1,0 +1,16 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥ÙÛşÿÿÿÿ
+f	java:S116"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ŞºÆúÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¿‹ˆÉøÿÿÿÿ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŠô)
+@
+java:S1197"*Move the array designators [] to the type.(¼…îÖ
+T
+java:S1155%">Use isEmpty() to check whether the collection is empty or not.(“¬ÿÄ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(à­Öæûÿÿÿÿ
+E
+java:S11976"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(Ú¸¢Û
+Q	java:S125C"<This block of commented-out lines of code should be removed.(¡«í”

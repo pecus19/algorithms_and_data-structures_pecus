@@ -1,0 +1,19 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(×Ø¢Å
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(–çšÿúÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(×Ø¢Å
+z
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(×Ø¢Å
+W
+java:S2184"ACast one of the operands of this division operation to a "float".(ÓòÎþ
+<
+java:S2185"&Remove this silly call to "Math.round"(ÓòÎþ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÃ¼Èþÿÿÿÿ
